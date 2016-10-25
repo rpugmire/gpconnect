@@ -17,7 +17,7 @@ Sending a `Patient` resource with NHS # and Date of Birth will allow the receivi
 
 ### Request Operation ###
 
-The `[registerPatient]` field SHALL be populated with a valid Patient resource (i.e. `http://fhir.nhs.net/Id/ods-site-code`).
+The `[registerPatient]` field SHALL be populated with a valid Patient resource (i.e. `http://fhir.nhs.net/StructureDefinition/gpconnect-register-patient-1`).
 
 #### FHIR Relative Request ####
 
